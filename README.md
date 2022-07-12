@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on multiple projects!
 
-- 🌱 ’m currently learning Python & HTML/JS
+- 🌱 I’m currently learning Python & HTML/JS
 
 - ⚡ Fun fact: There's no fun fact :c
 
