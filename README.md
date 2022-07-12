@@ -1,8 +1,10 @@
-### telescope I’m currently working on multiple projects!
+###
 
-seedling I’m currently learning Python & HTML/JS
+- 🔭 I’m currently working on multiple projects
 
-zap Fun fact There's no fun fact :c
+- 🌱 ’m currently learning Python & HTML/JS
+
+- ⚡ Fun fact: There's no fun fact :c
 
 <!--
 **Merdricon/Merdricon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
