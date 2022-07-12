@@ -1,6 +1,6 @@
 ###
 
-- 🔭 I’m currently working on multiple projects
+- 🔭 I’m currently working on multiple projects!
 
 - 🌱 ’m currently learning Python & HTML/JS
 
