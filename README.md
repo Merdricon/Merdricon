@@ -1,10 +1,4 @@
-###
 
-- 🔭 I’m currently working on multiple projects!
-
-- 🌱 I’m currently learning Python & HTML/JS
-
-- ⚡ Fun fact: There's no fun fact :c
 
 <!--
 **Merdricon/Merdricon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
